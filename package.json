@@ -47,12 +47,12 @@
     "truffle-plugin-verify": "^0.3.11"
   },
   "dependencies": {
-    "circomlib": "git+https://github.com/tornadocash/circomlib.git#3b492f9801573eebcfe1b6c584afe8a3beecf2b4",
+    "circomlib": "git+https://github.com/koraykoska/circomlib.git#38b7bb6c781febb60843599469c7e924326be628",
     "decimal.js": "^10.2.0",
     "eth-sig-util": "^2.5.3",
     "fixed-merkle-tree": "^0.3.4",
-    "snarkjs": "git+https://github.com/tornadocash/snarkjs.git#869181cfaf7526fe8972073d31655493a04326d5",
+    "snarkjs": "git+https://github.com/staccDOTsol/snarkjs.git#869181cfaf7526fe8972073d31655493a04326d5",
     "web3": "^1.2.11",
-    "websnark": "git+https://github.com/tornadocash/websnark.git#86a526718cd6f6f5d31bdb1fe26a9ec8819f633e"
+    "websnark": "git+https://github.com/staccDOTsol/websnark.git#2041cfa5fa0b71cd5cca9022a4eeea4afe28c9f7"
   }
 }
