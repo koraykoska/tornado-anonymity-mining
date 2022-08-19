@@ -50,7 +50,7 @@
     "circomlib": "git+https://github.com/koraykoska/circomlib.git#9c08accae9555a8878d2be27b3537dcb2116e9f9",
     "decimal.js": "^10.2.0",
     "eth-sig-util": "^2.5.3",
-    "fixed-merkle-tree": "git+https://github.com/koraykoska/fixed-merkle-tree.git#b63dfbd667f7858c22329c5618f99828286625f7",
+    "fixed-merkle-tree": "git+https://github.com/koraykoska/fixed-merkle-tree.git#119524bb4bef2b4ed5576c2959880504309a8f7a",
     "snarkjs": "git+https://github.com/staccDOTsol/snarkjs.git#869181cfaf7526fe8972073d31655493a04326d5",
     "web3": "^1.2.11",
     "websnark": "git+https://github.com/koraykoska/websnark.git#89abe7556a7ffe636b346a39944481b3ca220b4f"
