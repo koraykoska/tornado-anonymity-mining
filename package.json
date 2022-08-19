@@ -53,6 +53,6 @@
     "fixed-merkle-tree": "^0.3.4",
     "snarkjs": "git+https://github.com/staccDOTsol/snarkjs.git#869181cfaf7526fe8972073d31655493a04326d5",
     "web3": "^1.2.11",
-    "websnark": "git+https://github.com/staccDOTsol/websnark.git#2041cfa5fa0b71cd5cca9022a4eeea4afe28c9f7"
+    "websnark": "git+https://github.com/koraykoska/websnark.git#89abe7556a7ffe636b346a39944481b3ca220b4f"
   }
 }
