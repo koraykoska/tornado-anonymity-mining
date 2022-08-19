@@ -47,7 +47,7 @@
     "truffle-plugin-verify": "^0.3.11"
   },
   "dependencies": {
-    "circomlib": "git+https://github.com/koraykoska/circomlib.git#38b7bb6c781febb60843599469c7e924326be628",
+    "circomlib": "git+https://github.com/koraykoska/circomlib.git#9c08accae9555a8878d2be27b3537dcb2116e9f9",
     "decimal.js": "^10.2.0",
     "eth-sig-util": "^2.5.3",
     "fixed-merkle-tree": "^0.3.4",
